@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game>
+	<frame width="600" height="600">
+		<layer class="ui.LayerGame" x="" y="" w="" h=""/>
+		<layer class="ui.LayerNext" t="" x="" y="" w="" h=""/>
+		<layer class="ui.LayerLevel" t="" x="" y=""/>
+		<layer class="ui.LayerLines" t="" x="" y=""/>
+		<layer class="ui.LayerScore" t="" x="" y=""/>
+	</frame>
+	<system>
+	</system>
+	<data>
+	</data>
+</game>
